@@ -15,4 +15,4 @@ for (index,cit) in cities.enumerated(){
     print ("\(index):\(cit)")
 }
 
-print(cities)
+print(" i I visited \(cities)")
