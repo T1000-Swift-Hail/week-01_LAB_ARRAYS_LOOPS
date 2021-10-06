@@ -12,7 +12,7 @@ cities.insert("Tabok", at: 3)
 //cities += ["Hail","Mikk","Riyadh","Buh"]
 
 for (index,cit) in cities.enumerated(){
-    print ("\(index):\(cit)")
+    print (" I visited \(index):\(cit)")
 }
 
-print(" i I visited \(cities)")
+//print(" i I visited \(cities)")
